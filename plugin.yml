@@ -1,0 +1,10 @@
+name: MoveWordsPlugin
+main: io.github.Gamerick1029.MoveWordsPlugin
+version: 1.0
+commands:
+  kit:
+    description: Gives a dumb, overpowered kit to the player
+    usage: /kit
+  moveword:
+    description: Spawns a word on a screen and moves it around
+    usage: /moveWord
